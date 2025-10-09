@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -12,25 +12,9 @@
   <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  />
   </a>
   <a href="[https://leetcode.com/u/Anand_RH/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=gold&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=gold&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 
