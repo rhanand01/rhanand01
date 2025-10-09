@@ -11,7 +11,7 @@
   <a href="https://github.com/rhanand01" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  />
   </a>
-  <a href="[https://leetcode.com/u/Anand_RH/" target="_blank">
+  <a href="https://leetcode.com/u/anand_rh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=gold&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
