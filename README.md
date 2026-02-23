@@ -81,5 +81,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VSCode logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=cursor" height="60" alt="VSCode logo" />
 </div>
 
