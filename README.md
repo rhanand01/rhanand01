@@ -82,6 +82,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VSCode logo" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cursor" height="60" alt="VSCode logo" />
+  <img src="https://skillicons.dev/icons?i=notion,cursor" height="60" alt="VSCode logo" />
 </div>
 
