@@ -64,6 +64,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="MySQL logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
 </div>
 
