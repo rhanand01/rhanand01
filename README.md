@@ -41,8 +41,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow logo" />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow logo" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="Scikit-learn logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="OpenCV logo" />
