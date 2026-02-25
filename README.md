@@ -20,9 +20,9 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<!-- <h3 align="left">👩‍💻 About Me</h3> -->
 
-###
+### 👩‍💻 About Me
 
 <p align="left">
 🌱 I’m currently learning Data Analytics / Data Science <br>
@@ -30,6 +30,8 @@
 👯 I’m looking to collaborate on AI/ML Project <br>
 💬 Ask me about Python, SQL, Machine Learnig, AI ,</p>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rh_anand.ds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhanand11) 
 
 
 <h3 align="left">🛠️ Languages & Frameworks</h3>
@@ -55,6 +57,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="Anaconda logo" />
+  <img width="12" />
 </div>
 
 ---
@@ -70,6 +74,14 @@
 </div>
 
 ---
+---
+<h3 align="left">Version Control</h3>
+
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
+   <img width="12" />
+</div>
+---
 
 <h3 align="left">☁️ Cloud & Tools</h3>
 
@@ -77,10 +89,6 @@
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="Anaconda logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VSCode logo" />
   <img width="12"/>
