@@ -53,8 +53,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=pandas" height="60" alt="pandas logo" /> -->
+  <img src ="![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)"/>
   <img width="12" />
+  <img src="![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=seaborn" height="60" alt="seaborn logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="Anaconda logo" />
@@ -80,6 +83,7 @@
 <div align="left">
    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="Git logo" />
 </div>
 ---
 
@@ -94,4 +98,7 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=notion,cursor" height="60" alt="VSCode logo" />
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
